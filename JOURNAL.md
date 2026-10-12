@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-06 – Just got started working on my first project for half life. I decided to create a project I've wanted for a while, which is an uninterruptable power supply module board. With my battery powered electr](#2026-10-06-just-got-started-working-on-my-first-project-for-)
-2. [2026-10-07 – Work session](#2026-10-07-work-session)
+2. [2026-10-07 – Continued working on schematic for the boost convertor](#2026-10-07-continued-working-on-schematic-for-the-boost-conv)
 3. [2026-10-10 – Today I locked in and finished and finished my entire schematic design, so now I pretty much just have to assign footprints and route the board.](#2026-10-10-today-i-locked-in-and-finished-and-finished-my-en)
 4. [2026-10-11 – Chosing components and assigning footprints](#2026-10-11-chosing-components-and-assigning-footprints)
 5. [2026-10-11 – Did. The entire. Board Layout.](#2026-10-11-did-the-entire-board-layout)
@@ -46,11 +46,11 @@ I also started messing with the TPS61089 and started wiring it according to the 
 
 TLDR; I'm making a better version of the adafruit powerboost 1000c. Started a new kicad project and started deciding wiring components
 
-### 2026-10-07 – Work session
+### 2026-10-07 – Continued working on schematic for the boost convertor
 
 **2.5h**
 
-Work session
+Continued working on schematic for the boost convertor
 
 [Timelapse](https://lookout.hackclub.com/api/media/574e09c5-3eb1-42ee-8d71-8d261250821e/video.mp4)
 
