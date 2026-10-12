@@ -17,7 +17,7 @@
 1. [2026-10-06 – Just got started working on my first project for half life. I decided to create a project I've wanted for a while, which is an uninterruptable power supply module board. With my battery powered electr](#2026-10-06-just-got-started-working-on-my-first-project-for-)
 2. [2026-10-07 – Work session](#2026-10-07-work-session)
 3. [2026-10-10 – Today I locked in and finished and finished my entire schematic design, so now I pretty much just have to assign footprints and route the board.](#2026-10-10-today-i-locked-in-and-finished-and-finished-my-en)
-4. [2026-10-11 – Work session](#2026-10-11-work-session)
+4. [2026-10-11 – Chosing components and assigning footprints](#2026-10-11-chosing-components-and-assigning-footprints)
 5. [2026-10-11 – Did. The entire. Board Layout.](#2026-10-11-did-the-entire-board-layout)
 
 ## Design
@@ -83,11 +83,11 @@ I finally finished up everything specific to the battery charger ic, and hooked 
 
 TLDR; I researched and implemented everything to do with the battery charging using a BQ25306, my design is complete and I finalized my circuit schematic.
 
-### 2026-10-11 – Work session
+### 2026-10-11 – Chosing components and assigning footprints
 
 **1.3h**
 
-Work session
+Chosing components and assigning footprints
 
 [Timelapse](https://lookout.hackclub.com/api/media/eb31a350-c2e8-4458-8893-169a6b3a04a7/video.mp4)
 
