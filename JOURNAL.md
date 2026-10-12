@@ -18,7 +18,7 @@
 2. [2026-10-07 – Work session](#2026-10-07-work-session)
 3. [2026-10-10 – Today I locked in and finished and finished my entire schematic design, so now I pretty much just have to assign footprints and route the board.](#2026-10-10-today-i-locked-in-and-finished-and-finished-my-en)
 4. [2026-10-11 – Work session](#2026-10-11-work-session)
-5. [2026-10-11 – Work session](#2026-10-11-work-session)
+5. [2026-10-11 – Did. The entire. Board Layout.](#2026-10-11-did-the-entire-board-layout)
 
 ## Design
 
@@ -91,8 +91,10 @@ Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/eb31a350-c2e8-4458-8893-169a6b3a04a7/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – Did. The entire. Board Layout.
 
 **5.03h**
+
+Did. The entire. Board Layout.
 
 [Timelapse](https://lookout.hackclub.com/api/media/3f045238-d893-4b91-9324-a8d64bd72095/video.mp4)
