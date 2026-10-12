@@ -7,11 +7,11 @@ It was inspired by the adafruit powerboost 1000c, but I wanted usb C connection 
 
 It uses a BQ25306 for battery charging and load sharing, and a TPS61089 to boost the lithium ion battery to a 5V output. both chips are by Texas instruments. 
 
+**kicad render**
 <img width="1038" height="615" alt="Screenshot 2026-10-11 203945" src="https://github.com/user-attachments/assets/cb8f06f6-29cc-4d14-9b9e-2e0804e55732" />
-*kicad render*
-
+<br>
+**schematic**
 <img width="1278" height="602" alt="Screenshot 2026-10-11 203904" src="https://github.com/user-attachments/assets/8e5199f0-8b94-4a19-ae91-e812e1c8afc9" />
-*schematic*
-
+<br>
 
 I have not actually built this yet so I'm not sure if it even works
