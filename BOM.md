@@ -18,10 +18,9 @@
 | [AOS AO3401A](https://www.lcsc.com/product-detail/C15127.html?s_z=n_q_AO3401) | Load Sharing with BQ25306 | 1 | $0.51 | $0.51 | [LCSC](https://www.lcsc.com/product-detail/C15127.html?s_z=n_q_AO3401) |
 | [USB4125-GF-A](https://www.lcsc.com/product-detail/C3151650.html?s_z=s_p_x_USB4125-GF-A) | charging the battery/powering the load | 1 | $1.05 | $1.05 | [LCSC](https://www.lcsc.com/product-detail/C3151650.html?s_z=s_p_x_USB4125-GF-A) |
 | [XFCN PZ254R-11-02P](https://www.lcsc.com/product-detail/C492410.html?s_z=n_q_t_pin%2520header) | connecting an external battery and a load | 1 | $0.43 | $0.43 | [LCSC](https://www.lcsc.com/product-detail/C492410.html?s_z=n_q_t_pin%2520header) |
-| [Lithium Ion Cylindrical Battery - 3.7v 2200mAh](https://www.adafruit.com/product/1781) | supplying power to the load when not connected via usb | 1 | $9.95 | $9.95 | [Adafruit](https://www.adafruit.com/product/1781) |
 | [PCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=40&stencilLength=30&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) | connecting the components | 1 | $1.00 | $1.00 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=40&stencilLength=30&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
-| **Parts subtotal** | — | — | — | **$15.36** | — |
+| **Parts subtotal** | — | — | — | **$5.41** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$15.36** | — |
+| **Total** | — | — | — | **$5.41** | — |
 
-$14.64 left of the tier's funding.
+$24.59 left of the tier's funding.
